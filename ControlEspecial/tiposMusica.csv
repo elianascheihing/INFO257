@@ -1,0 +1,150 @@
+genre;artist_name;track_name;popularity;acousticness;danceability;duration_ms;energy;instrumentalness;liveness;loudness;speechiness;tempo;valence
+Classical;Wolfgang Amadeus Mozart;Grabmusik, K. 42: III. Geliebte Seel' (Live);14;0.942;0.35;79333;0.0761;0;0.156;-22.003;0.0352;140.044;0.0293
+Classical;Wolfgang Amadeus Mozart;Requiem in D Minor, K. 626: IIIb. Sequence No. 2, Tuba mirum (Live);13;0.991;0.236;261000;0.0753;0.00315;0.0858;-23.232;0.0426;122.973;0.3
+Classical;Wolfgang Amadeus Mozart;12 Duets (No. 10 Andante) - Violin Version;2;0.994;0.24;48000;0.251;0.958;0.102;-11.31;0.0394;99.234;0.16
+Classical;FrÇdÇric Chopin;Mazurkas, Op. 50: No. 2 in A-Flat Major;32;0.996;0.387;136293;0.0222;0.922;0.12;-29.504;0.14;112.36;0.0687
+Classical;FrÇdÇric Chopin;MÇlodies Polonaises, Op. 74: No. 9, Melodia (Lamento);29;0.994;0.358;154147;0.205;1.45e-05;0.149;-13.588;0.043;87.696;0.518
+Classical;FrÇdÇric Chopin;Preludes, Op. 28: No. 12 in G-Sharp Minor (Presto);25;0.993;0.47;70987;0.204;0.915;0.118;-21.667;0.0653;138.257;0.0398
+Classical;Ludwig van Beethoven;Fidelio, Op. 72, Act I: Wenn ich diese TÅr nicht (Live);0;0.644;0.415;64760;0.0197;0;0.197;-34.225;0.0369;74.338;0.228
+Classical;Ludwig van Beethoven;"Piano Sonata No. 8 in C Minor, Op. 13 ""PathÇtique"": II. Adagio cantabile";0;0.993;0.38;297372;0.0414;0.923;0.113;-22.443;0.035;75.241;0.547
+Classical;Johann Sebastian Bach;Violin Partita No. 1 in B Minor, BWV 1002: IV. Double. Presto;23;0.993;0.332;219947;0.23;0.872;0.111;-23.125;0.062;99.962;0.0356
+Classical;Johann Sebastian Bach;St. John Passion, BWV 245, Pt. 2: No. 17, Ach gro·er Kînig;17;0.982;0.173;86401;0.102;0.0349;0.146;-24.937;0.0387;86.998;0.335
+Classical;Johann Sebastian Bach;Suite No. 4 in E-Flat Major, BWV 1010: III. Courante;0;0.93;0.419;223053;0.104;0.73;0.101;-22.483;0.0334;85.567;0.0516
+Classical;Johann Sebastian Bach;Suite No. 6 in D Major, BWV 1012: VII. Gigue;0;0.975;0.401;277600;0.125;0.301;0.101;-16.934;0.0552;85.828;0.0586
+Classical;Johann Sebastian Bach;"Cantata ""Gott soll allein mein Herze haben"", BWV 169: VII. Chorale ""Du sÅ·e Liebe, schenk uns deine Gunst""";0;0.932;0.221;66453;0.227;0.854;0.101;-13.988;0.27;143.976;0.566
+Classical;Johann Sebastian Bach;St. Matthew Passion, BWV 244, Pt. 2: No. 31, Die aber Jesum gegriffen hatten, fÅhreten ihn zu dem Hohenpriester Kaiphas;0;0.783;0.505;55893;0.0433;0;0.152;-29.855;0.0394;112.184;0.852
+Classical;Johann Sebastian Bach;"Cantata ""Gott soll allein mein Herze haben"", BWV 169: VI. Recitative ""Doch meint es auch dabei""";0;0.994;0.514;31787;0.144;0.00339;0.114;-17.243;0.166;74.995;0.711
+Classical;Johannes Brahms;Wiegenlied, Op. 49, No. 4 (Arr. for Cello and Piano);62;0.989;0.205;109800;0.00832;0.598;0.104;-33.503;0.0437;138.039;0.363
+Classical;Ludwig van Beethoven;Diabelli Variations, Op. 120: Thema - Vivace;29;0.983;0.583;53920;0.228;0.86;0.146;-23.667;0.038;130.97;0.0642
+Classical;Ludwig van Beethoven;6 Bagatelles, Op. 126: No. 5, Quasi allegretto;27;0.985;0.412;117360;0.0273;0.954;0.118;-31.813;0.0345;92.471;0.634
+Classical;Ludwig van Beethoven;Eroica Variations in E-Flat Major, Op. 35: Var. 1;0;0.984;0.465;39962;0.24;0.94;0.129;-24.606;0.0531;130.08;0.652
+Classical;Johann Sebastian Bach;Unaccompanied Cello Suite No. 1 in G Major, BWV 1007: I. PrÇlude;61;0.988;0.326;150973;0.0993;0.916;0.108;-22.496;0.179;144.843;0.158
+Classical;Franz Liszt;En ràve, nocturne, S. 207;57;0.983;0.29;154400;0.0077;0.921;0.0787;-38.933;0.0325;83.27;0.0368
+Classical;Claude Debussy;Deux arabesques, L. 66: No. 1, Andantino con moto in E Major;0;0.993;0.313;234973;0.017;0.883;0.0548;-29.271;0.117;79.792;0.0659
+Classical;Edward Elgar;Sospiri, Opus 70;55;0.797;0.169;307027;0.027;0.92;0.117;-30.15;0.0458;99.324;0.0482
+Classical;Claude Debussy;Suite Bergamasque, L. 75: III. Clair de lune;56;0.993;0.278;333707;0.00448;0.926;0.0579;-32.897;0.0478;85.275;0.48
+Classical;Gustav Mahler;Symphony No.5 In C Sharp Minor: 4. Adagietto (Sehr langsam);53;0.839;0.074;659000;0.0114;0.883;0.122;-32.866;0.0429;71.606;0.276
+Classical;Erik Satie;3 Gymnopedies (orch. Debussy): No. 1: Lent et douloureux (orch. Debussy);51;0.961;0.155;242760;0.0369;0.75;0.139;-27.885;0.0552;97.347;0.0393
+Classical;Claude Debussy;Debussy: Arabesques, L. 74: No. 1;51;0.991;0.276;205200;0.0821;0.924;0.11;-23.464;0.043;121.914;0.461
+Classical;Franz Schubert;II. Adagio;5;0.91;0.154;865940;0.0556;0.627;0.131;-20.387;0.108;163.219;0.126
+Classical;Franz Liszt;Via Crucis, S. 53: Station IV. Jesus begegnet seiner heiligen;15;0.985;0.462;120227;0.00211;0.925;0.103;-46.122;0.0478;104.31;0.152
+Classical;Johannes Brahms;Serenade No. 1 in D Major, Op. 11: V. Scherzo. Allegro;0;0.97;0.438;174387;0.209;0.907;0.0918;-14.845;0.0523;146.58;0.859
+Classical;Ludwig van Beethoven;"Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2 ""Moonlight"": I. Adagio sostenuto";47;0.995;0.377;358694;0.0187;0.881;0.12;-28.914;0.0452;75.501;0.178
+Classical;LÇo Delibes;Flower duet from Lakme - RemasterisÇ en 1987;55;0.97;0.224;210720;0.121;0.622;0.264;-19.321;0.0519;126.447;0
+Classical;FrÇdÇric Chopin;12 êtudes, Op. 25: êtude No. 11 in A Minor;48;0.967;0.328;211907;0.203;0.895;0.11;-21.742;0.0476;127.173;0.507
+Classical;George Frideric Handel;Concerto in D Minor, Op.7, No.4: I. Adagio;54;0.942;0.0685;285840;0.0173;0.66;0.1;-26.846;0.0475;134.119;0.291
+Classical;Ludwig van Beethoven;Piano Sonata No. 14 in C-Sharp Minor, Op.27 No. 2, ''Moonlight'': I. Adagio sostenuto (Excerpt);45;0.995;0.327;237480;0.015;0.924;0.13;-33.58;0.0407;83.336;0.27
+Classical;FrÇdÇric Chopin;Waltz in G-Flat Major, Op. 70 No. 1;49;0.987;0.414;125000;0.0575;0.91;0.0666;-26.269;0.0435;169.011;0.134
+Classical;Anton°n Dvo?†k;Rusalka, Op. 114, B. 203, Act III: Mil†?ku, zn†? mne, zn†?? (Live);0;0.966;0.196;281520;0.109;4.85e-06;0.615;-17.711;0.0455;115.206;0.522
+Classical;Robert Schumann;Symphonic Etudes for Piano, Op. 13: êtude IX. Presto possibile;13;0.995;0.491;36547;0.194;0.93;0.104;-18.564;0.0371;113.293;0.323
+Classical;Wolfgang Amadeus Mozart;Concerto No. 21 in C Major for Piano and Orchestra, K. 467: II. Andante;40;0.984;0.251;463000;0.025;0.953;0.0938;-30.016;0.0624;118.704;0.336
+Classical;Georges Bizet;Jeux d'enfants, Op.22 WD 56: 3. La poupÇe;43;0.996;0.538;141787;0.00652;0.912;0.104;-37.533;0.0786;81.837;0.405
+Classical;Claude Debussy;PrÇludes / Book 1, L.117: 8. La fille aux cheveux de lin - Live;47;0.991;0.333;189000;0.00256;0.935;0.0544;-40.295;0.0486;117.191;0.253
+Classical;George Frideric Handel;Rinaldo, HWV 7a, Act I (Ed. G. Sechi): Ch'insolito stupore [Live];8;0.985;0.549;55040;0.0726;3.46e-06;0.354;-19.961;0.0385;130.482;0.282
+Classical;Antonio Vivaldi;"The Four Seasons, Violin Concerto No. 2 in G Minor, RV 315 ""L'estate"": III. Tempo impetuoso d'estate";50;0.874;0.364;150667;0.571;0.867;0.121;-15.596;0.0553;67.692;0.128
+Classical;Franz Liszt;StÑndchen in D Minor (After Schubert), S. 560;48;0.993;0.341;357747;0.0142;0.921;0.113;-28.293;0.116;135.596;0.124
+Classical;Antonio Vivaldi;Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156);51;0.957;0.429;112353;0.258;0.893;0.115;-16.967;0.0323;75.944;0.342
+Classical;FrÇdÇric Chopin;Mazurka in E Minor, Op. 41 No. 2;44;0.995;0.442;215227;0.017;0.893;0.061;-24.902;0.0429;67.619;0.28
+Classical;Dmitri Shostakovich;Four Romances on Poems by Pushkin, Op. 46: II. Jealousy;9;0.955;0.261;91333;0.0384;0.647;0.128;-28.173;0.0354;128.9;0.762
+Classical;Johann Sebastian Bach;Invention No. 1 in C Major, BWV 772;40;0.994;0.314;88573;0.209;0.902;0.0873;-26.784;0.0438;79.556;0.0339
+Classical;Johann Sebastian Bach;Cello Suite No. 5 in C Minor, BWV 1011: IV. Sarabande;36;0.937;0.0874;198320;0.0169;0.773;0.108;-32.245;0.0417;143.98;0.0847
+Classical;Gustavo Santaolalla;The Last of Us (You and Me);44;0.952;0.492;128827;0.0126;0.294;0.0744;-22.416;0.0373;131.598;0.158
+Classical;Thomas Adäs;Traced overhead Op. 15 (1990): Sursum;36;0.978;0.204;45933;0.015;0.929;0.142;-44.727;0.0467;84.38;0.0394
+Classical;Dmitri Shostakovich;Shostakovich: Piano Quintet in G Minor, Op. 57: III. Scherzo. Allegretto;40;0.93;0.615;210960;0.364;0.818;0.125;-14.683;0.0636;127.338;0.149
+Classical;Johann Sebastian Bach;Unaccompanied Cello Suite No. 3 in C Major, BWV 1009: III. Courante;38;0.971;0.36;188147;0.0775;0.906;0.146;-25.674;0.0371;120.741;0.569
+Classical;Leo Brouwer;Danza del altiplano;38;0.954;0.458;245947;0.197;0.755;0.113;-21.578;0.0451;70.708;0.114
+Classical;John Tavener;The Lamb;46;0.983;0.0829;254253;0.0107;0.106;0.0607;-39.295;0.0447;89.567;0.0481
+Classical;Johannes Brahms;Brahms: 3 Intermezzi, Op. 117: No. 1 Intermezzo No. 1 in E-Flat Major;41;0.995;0.333;329044;0.00325;0.917;0.0897;-37.682;0.0357;91.76;0.104
+Classical;Antìnio Carlos Jobim;Dindi - Live;47;0.926;0.434;320520;0.108;0;0.972;-21.322;0.0476;73.995;0.307
+Classical;BÇla Bart¢k;String Quartet No. 4, Sz. 91: III. Non troppo lento;36;0.938;0.136;377653;0.0157;0.654;0.0728;-28.009;0.0368;106.602;0.405
+Classical;Gustav Mahler;"Songs from ""Des Knaben Wunderhorn"": 12. Der Tamboursg'sell";2;0.98;0.226;368720;0.255;0.507;0.323;-15.72;0.0584;76.987;0.0395
+Classical;Gustav Mahler;"Das Klagende Lied / Pt. 1: ""Ach Spielmann, lieber Spielmann mein!""";2;0.962;0.207;363907;0.106;0.138;0.127;-18.548;0.0545;84.047;0.0621
+Classical;Gustav Mahler;"Symphony No. 8 in E-Flat Major - ""Symphony of a Thousand"" / Pt. 2: ""Uns bleibt ein Erdenrest""";4;0.981;0.215;112827;0.0581;0.344;0.288;-28.751;0.0457;107.318;0.848
+Classical;Franz Schubert;Valse sentimentale No. 13, D. 779, Op. 50;38;0.992;0.389;73333;0.0142;0.926;0.0873;-32.378;0.0336;81.402;0.0991
+Classical;Camille Saint-Saâns;Saint-Saâns: Le carnaval des animaux (Carnival of the Animals): XIII. The Swan;40;0.99;0.105;205240;0.0334;0.926;0.0933;-28.089;0.049;66.086;0.258
+Classical;Giacomo Puccini;Gianni Schicchi - Arr. Mikhashoff: O mio babbino caro;41;0.993;0.233;172431;0.0242;0.846;0.133;-28.831;0.0421;170.573;0.0342
+Classical;Giuseppe Verdi;"""Libiamo ne'lieti calici""";38;0.967;0.395;167027;0.246;7.77e-06;0.505;-16.601;0.0459;108.011;0.057
+Classical;Terry Riley;One Earth, One People, One Love (from Sun Rings);42;0.939;0.119;540160;0.142;0.916;0.0849;-23.235;0.174;96.605;0.39
+Classical;Johann Sebastian Bach;Goldberg Variations, BWV 988: Variation 5 a 1 ovvero 2 Clav. - Remastered;43;0.991;0.409;37027;0.208;0.84;0.115;-22.097;0.0453;127.999;0.75
+Classical;Frank Ticheli;Earth Song;33;0.986;0.173;222167;0.0632;0.0107;0.117;-28.432;0.0478;85.068;0.05
+Classical;Richard Strauss;Capriccio, Op.85, TrV 279: Mondscheinmusik;36;0.984;0.138;219250;0.144;0.936;0.0806;-17.179;0.0765;142.242;0.107
+Classical;Ludwig van Beethoven;"Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2, ""Moonlight"": I. Adagio sostenuto (Excerpt)";41;0.996;0.276;237120;0.0127;0.918;0.148;-34.464;0.0362;72.704;0.0548
+Classical;Guillaume Dufay;Saltarello - Guillaume Dufay / Jordi Savall;38;0.972;0.498;132838;0.034;0.475;0.0504;-26.164;0.0441;123.739;0.566
+Electronic;Bassnectar;Other Worlds;57;0.0174;0.485;309429;0.739;0.08;0.0674;-4.693;0.0567;74.647;0.0629
+Electronic;Nightmares On Wax;Typical;54;0.595;0.503;280267;0.339;0.0974;0.148;-9.784;0.0453;86.893;0.0288
+Electronic;Nicolas Jaar;History Lesson;44;0.326;0.461;223640;0.247;0.21;0.109;-13.594;0.0464;85.882;0.178
+Electronic;12th Planet;Taco Bout It;40;0.000829;0.576;168000;0.968;0.0149;0.317;-3.086;0.0518;96.55;0.0547
+Electronic;DJ Shadow;Changeling;40;0.333;0.594;436200;0.809;0.827;0.524;-6.489;0.0379;109.209;0.155
+Electronic;Portishead;Elysium;42;0.00366;0.33;354627;0.488;0.0494;0.361;-5.376;0.0584;72.207;0.0384
+Electronic;Nightmares On Wax;I Am You;45;0.45;0.405;402280;0.378;0.58;0.105;-9.864;0.0508;78.232;0.0381
+Electronic;Boards of Canada;Dawn Chorus;40;0.00177;0.418;235493;0.686;0.0176;0.863;-8.658;0.0653;101.136;0.608
+Electronic;Junkie XL;Sparta;29;0.253;0.538;65533;0.833;0.459;0.219;-9.535;0.0366;100.899;0.0383
+Electronic;Bonobo;Hatoa;42;0.333;0.524;261851;0.443;0.911;0.107;-15.092;0.0311;115.024;0.104
+Electronic;Burial;Etched Headplate;36;0.278;0.423;359760;0.506;0.723;0.099;-12.286;0.0534;105.338;0.543
+Electronic;UNKLE;On My Knees (feat. Michael Kiwanuka);44;0.0311;0.155;328920;0.557;8.96e-05;0.136;-8.21;0.0451;98.705;0.631
+Electronic;Space Jesus;NawLedge - Bleep Bloop Remix;29;0.0256;0.561;150855;0.556;0;0.101;-6.966;0.0912;69.716;0.0489
+Electronic;The Prodigy;Intro;26;0.00379;0.288;46200;0.291;0.244;0.797;-15.444;0.0511;89.712;0.0376
+Electronic;Todd Terje;Alfonso Muskedunder;46;0.0328;0.569;204933;0.948;0.925;0.0928;-7.536;0.0525;71.999;0.0945
+Electronic;Flying Lotus;Theme;35;0.208;0.189;84040;0.614;0.535;0.454;-6.895;0.0451;125.827;0.032
+Electronic;Bailo;Tonight;30;0.00555;0.51;173419;0.822;0.000565;0.11;-4.602;0.0397;110.74;0.0845
+Electronic;Venetian Snares;ôngyilkos Vas†rnap;30;0.0597;0.729;206160;0.874;0.44;0.174;-4.664;0.0466;81.497;0.0386
+Electronic;Venetian Snares;Hajnal;30;0.504;0.35;466000;0.772;0.653;0.115;-4.893;0.0424;76.942;0.0729
+Electronic;LCD Soundsystem;pulse (v.1);34;0.457;0.709;822640;0.687;0.837;0.0951;-12.527;0.0377;82.953;0.0373
+Electronic;Dirt Monkey;Cheeky Beak;27;0.00239;0.778;185600;0.53;0.837;0.196;-5.721;0.0443;132.715;0.0338
+Electronic;Junkie XL;Water;30;0.175;0.387;195141;0.751;0.76;0.114;-12.217;0.0608;71.863;0.17
+Electronic;Lamb;Armageddon Waits;41;0.00901;0.633;260453;0.56;0.552;0.152;-5.813;0.0483;97.408;0.242
+Electronic;aYia;Sparkle;30;0.0421;0.375;278413;0.479;0.318;0.171;-9.127;0.0402;80.255;0.467
+Electronic;Cocteau Twins;Carolyn's Fingers;41;0.022;0.389;187347;0.83;0.0156;0.167;-4.314;0.0521;125.77;0.0394
+Electronic;Boards of Canada;Zoetrope;31;0.971;0.801;318880;0.649;0.81;0.0886;-16.399;0.0697;110.925;0.373
+Electronic;Moa Pillar;Water Lily;29;0.000589;0.312;221698;0.871;0.575;0.279;-6.502;0.0418;83.99;0.362
+Electronic;Flying Lotus;Your Potential//The Beyond;30;0.134;0.198;105978;0.69;0.902;0.108;-6.708;0.0484;132.568;0.0318
+Electronic;Morcheeba;Diggin' A Watery Grave;21;0.611;0.236;96040;0.377;4.88e-05;0.11;-10.449;0.039;78.787;0.109
+Electronic;Dodge & Fuski;Substance Abuse;28;0.0073;0.495;325714;0.977;0.198;0.416;-3.107;0.0447;78.402;0.0462
+Electronic;Bjarki;I Wanna Go Bang - Original Mix;44;0.00098;0.797;295915;0.693;0.926;0.106;-7.949;0.0485;177.744;0.0846
+Electronic;Flying Lotus;Orbit 405;29;0.000335;0.326;43960;0.963;0.947;0.339;-9.042;0.0427;93.1;0.0338
+Electronic;Getter;Inhalant Abuse Vip;30;0.0322;0.633;148625;0.819;0.187;0.238;-4.32;0.0286;80.167;0.282
+Electronic;Herobust;First Person Shooter;25;0.000918;0.717;232000;0.918;0.0425;0.0997;-0.747;0.0352;87.912;0.04
+Electronic;Flying Lotus;Protector;26;0.253;0.152;133982;0.691;0.872;0.145;-14.592;0.0349;83.553;0.271
+Electronic;Thom Yorke;Voiceless Terror;33;0.261;0.173;150225;0.745;0.609;0.059;-11.084;0.0464;134.466;0.0589
+Electronic;Lamb;Lusty;22;0.00305;0.797;249067;0.812;0.0496;0.1;-8.396;0.051;130.722;0.659
+Electronic;Wax Tailor;Birth of a Struggle;26;0.758;0.297;59933;0.453;0.0496;0.602;-14.572;0.0556;76.669;0.906
+Electronic;Juno Reactor;Angels And Men;27;0.887;0.299;427600;0.358;0.841;0.458;-13.027;0.0281;83.413;0.214
+Rock;Bobby Vinton;Blue Velvet;61;0.862;0.376;168093;0.246;0;0.155;-9.803;0.0286;80.167;0.282
+Rock;Hammock;I Can Almost See You;58;0.78;0.0964;253147;0.46;0.814;0.0909;-9.822;0.0352;87.912;0.04
+Rock;Led Zeppelin;Friends - Remastered;53;0.744;0.257;233901;0.452;0.0996;0.38;-12.365;0.0349;83.553;0.271
+Rock;Nine Inch Nails;March Of The Pigs;54;0.0278;0.512;178427;0.84;0.142;0.077;-6.817;0.0464;134.466;0.0589
+Rock;Grateful Dead;Estimated Prophet - 2013 Remaster;49;0.456;0.655;336579;0.398;0.00099;0.0814;-13.822;0.051;130.722;0.659
+Rock;Grateful Dead;Fire On The Mountain;49;0.528;0.788;229009;0.461;2.69e-05;0.0886;-11.704;0.0556;76.669;0.906
+Rock;Dashboard Confessional;Heart Beat Here;52;0.21;0.568;207200;0.302;0;0.104;-7.817;0.0281;83.413;0.214
+Rock;Better Oblivion Community Center;Forest Lawn;55;0.194;0.576;226240;0.421;0.000291;0.126;-13.545;0.0449;82.841;0.266
+Rock;Puma Blue;Want Me;54;0.852;0.339;266733;0.197;0.015;0.111;-13.937;0.0362;91.33;0.0385
+Rock;John Denver;We Wish You A Merry Christmas;53;0.814;0.678;65347;0.353;0;0.0904;-15.636;0.0716;84.545;0.777
+Rock;Young the Giant;Anagram;51;0.0312;0.504;294240;0.718;1.76e-05;0.0946;-5.871;0.0277;90.05;0.357
+Rock;Bleachers;Like a River Runs;56;0.84;0.255;237587;0.243;2.36e-06;0.187;-11.194;0.0384;89.258;0.135
+Rock;Peter Gabriel;Solsbury Hill - Remastered 2002;47;0.379;0.676;260750;0.647;0.000158;0.391;-8.747;0.0302;102.9;0.474
+Rock;Switchfoot;LET IT HAPPEN;51;0.000383;0.345;281133;0.93;0.00129;0.792;-5.109;0.0819;105.546;0.1
+Rock;Amos Lee;Wait Up For Me;57;0.677;0.654;225147;0.24;0.00649;0.0784;-15.692;0.0288;83.013;0.246
+Rock;Mattia Cupelli;Narrowed Eyes;52;0.361;0.167;153953;0.179;0.899;0.135;-20.276;0.0342;68.622;0.0343
+Rock;Tribal Seeds;Night & Day;52;0.00975;0.865;253230;0.623;0.000483;0.0842;-7.315;0.0387;134.972;0.693
+Rock;Pink Floyd;Money;74;0.0241;0.469;382834;0.537;0.00201;0.269;-10.421;0.152;124.193;0.783
+Rock;Vance Joy;Mess Is Mine;71;0.047;0.595;223640;0.723;0.0286;0.0995;-8.256;0.0349;108.043;0.272
+Rock;Bring Me The Horizon;i apologise if you feel something;70;0.533;0.211;139564;0.361;0.0284;0.08;-10.247;0.0346;179.895;0.0537
+Rock;The Beatles;Lucy In The Sky With Diamonds - Remastered 2009;69;0.0469;0.311;208467;0.325;0;0.139;-10.769;0.0283;65.09;0.668
+Rock;George Thorogood & The Destroyers;Bad To The Bone;68;0.00614;0.459;292173;0.727;0.065;0.384;-6.566;0.0303;149.229;0.954
+Rock;Wolfmother;Woman;63;5.1e-05;0.219;176307;0.952;0.0989;0.157;-10.615;0.176;112.886;0.172
+Rock;Rush;Closer To The Heart;61;0.155;0.374;171960;0.804;0;0.654;-5.399;0.0899;144.995;0.561
+Rock;Thirty Seconds To Mars;Love Is Madness (feat. Halsey);65;0.0128;0.382;234867;0.675;0.000246;0.219;-4.36;0.0441;106.171;0.449
+Rock;Alice In Chains;Them Bones;64;0.0235;0.159;149467;0.946;8.06e-06;0.387;-8.491;0.0629;164.997;0.309
+Rock;The Mamas & The Papas;Dream A Little Dream Of Me - Album Version With Introduction;65;0.816;0.459;194427;0.322;0;0.072;-9.866;0.0595;133.91;0.331
+Rock;Peter Gabriel;Solsbury Hill;56;0.33;0.681;262773;0.569;0.00038;0.323;-6.109;0.0295;102.402;0.458
+Rock;Whiskey Myers;Ballad Of A Southern Man;61;0.432;0.605;220187;0.53;0;0.095;-11.074;0.0261;73.986;0.38
+Rock;Kip Moore;Hey Pretty Girl;60;0.145;0.291;215920;0.4;1.86e-05;0.259;-9.921;0.0306;83.112;0.0935
+Rock;Cody Johnson;Wild as You;62;0.241;0.49;186067;0.644;0;0.111;-10.119;0.0278;74.979;0.49
+Rock;grandson;Kiss Bang;58;0.000233;0.322;172941;0.832;0.218;0.364;-11.227;0.0731;78.721;0.322
+Rock;Eric Paslay;She Don't Love You;58;0.335;0.36;262053;0.333;1.09e-06;0.114;-8.491;0.0285;74.53;0.17
+Rock;Parachute;She Is Love;60;0.683;0.622;146067;0.175;0;0.109;-9.866;0.156;136.365;0.376
+Rock;Coconut Records;West Coast;57;0.464;0.532;210106;0.597;0.000123;0.0643;-6.109;0.0261;80.031;0.345
+Rock;Hippo Campus;Monsoon;53;0.938;0.29;222820;0.308;0.0294;0.106;-11.074;0.0442;84.88;0.205
+Rock;Alice In Chains;Don't Follow;54;0.781;0.314;262133;0.37;0.139;0.122;-9.921;0.0286;116.044;0.28
+Rock;The Beatles;The End - Remastered 2009;58;0.00101;0.647;141613;0.487;0.285;0.138;-10.119;0.0689;123.444;0.222
+Rock;Richard Marx;Now And Forever;64;0.661;0.441;214827;0.258;0;0.106;-11.227;0.0276;77.988;0.172
